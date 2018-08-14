@@ -1,0 +1,32 @@
+{
+  "name": "react-paiva-tools",
+  "version": "1.0.0",
+  "description": "Set of generic tools for React website development, based around less, properly structered and cleaner overall code.",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "react": "^16.4.1",
+    "react-cookie": "^2.2.0",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RafaelRibeiroPaiva@bitbucket.org/RafaelRibeiroPaiva/react-paiva-tools.git"
+  },
+  "keywords": [
+    "react",
+    "framework",
+    "generic"
+  ],
+  "author": "Rafael Ribeiro Paiva",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/RafaelRibeiroPaiva/react-paiva-tools#readme"
+}
